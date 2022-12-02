@@ -1,0 +1,12 @@
+How to install Split APKs (App Bundle), OBB, ZIP, XAPK ?
+
+1. Make sure that third-party apps are allowed on your device: go to Menu->Settings->Security->and check "Unknown Sources"
+
+2. Download all APK files or only Zip file
+
+3. Download and Split APKs Installer (SAI) and open it.
+	- https://apksos.com/app/com.aefyr.sai
+
+4. Click "Install APKs" button and select all of the APK files in the APKs Bundle (or Zip file) .
+
+5. Click "Select" button to start the installation process.
